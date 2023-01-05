@@ -1,0 +1,81 @@
+.fa{
+    font-size: 50px;
+}
+
+.fa-brands {
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.fa-vk{
+    color:blueviolet;
+    background-color:  black;
+}
+
+.fa-whatsapp{
+    color: green;
+    background-color: gold;
+}
+
+.fa-vk:hover{
+    color: red;
+    background-color:  blue;
+}
+
+.desc{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+
+a{
+    text-decoration: none;
+}
+
+.menu_link{
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+.titleh1{
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.titleh2{
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+
+.images{
+    border-radius: 10px;
+}
+
+.input_data{
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
+.btn_class{
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+body{
+    font-family: sans-serif;
+}
